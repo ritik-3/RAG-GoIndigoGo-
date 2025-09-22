@@ -1,0 +1,6 @@
+numpy
+pandas
+sentence-transformers>=2.2 # optional, will fallback if missing
+faiss-cpu>=1.7 # optional
+google-generativeai>=0.3.0 # only if you manually supply a key
+pypdf2
